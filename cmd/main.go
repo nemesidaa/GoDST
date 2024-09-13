@@ -1,9 +1,7 @@
 package main
 
-import (
-	"tinkoff/internal/solutions"
-)
+import "fmt"
 
 func main() {
-	solutions.Sixth()
+	fmt.Println("Hello, World!")
 }
